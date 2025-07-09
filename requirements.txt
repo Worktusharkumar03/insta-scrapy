@@ -1,0 +1,9 @@
+openai-whisper
+instaloader
+requests
+python-docx
+langdetect
+transformers
+torch
+PyYAML
+reportlab

@@ -1,0 +1,18 @@
+# Example config.yaml
+hashtags:
+  - nature
+locations:
+  - "New York"
+keywords:
+  - wildlife
+  - forest
+language: en
+rewrite_mode: summarize
+llm_model: mistralai/Mistral-7B-Instruct-v0.2
+max_posts: 5
+# Instagram login credentials (required for hashtag scraping)
+# instagram_username: "tu4ar_"
+# instagram_password: "Tus4ar@101010"
+# Or use a session file (optional, more secure)
+instagram_sessionfile: "session-tu4ar_"
+# sessionid=<your_sessionid>
